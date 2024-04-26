@@ -1,0 +1,5 @@
+*.o
+*.d
+myOS.bin
+myOS.iso
+isodir/*

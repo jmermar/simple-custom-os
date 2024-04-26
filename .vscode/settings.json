@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "framebuffer.h": "c"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "xaver.clang-format"
+}
